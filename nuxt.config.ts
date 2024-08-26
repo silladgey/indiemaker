@@ -51,7 +51,7 @@ export default defineNuxtConfig({
 			},
 		],
 		baseUrl: "https://whatisanindiemaker.com",
-		defaultLocale: "en",
+		defaultLocale: "hu",
 		vueI18n: "./i18n.config.ts",
 	},
 
